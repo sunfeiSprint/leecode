@@ -1,4 +1,4 @@
-package leecode;
+
 
 public class Main {
 
